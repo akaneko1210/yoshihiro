@@ -10,13 +10,13 @@ int main()
 
 
 	printf("input kokugo\n");
-	scanf("%d\n",k);
+	scanf("%d",&k);
 
 	printf("input shakai\n");
-	scanf("%d\n",s);
+	scanf("%d",&s);
 
 	printf("input rika\n");
-	scanf("%d\n",r);
+	scanf("%d",&r);
 
 	a=(k+s+r)/3;
 
